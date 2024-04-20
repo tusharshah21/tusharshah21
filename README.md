@@ -101,14 +101,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=tusharshah21&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=tusharshah21&theme=onedark" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tusharshah21/tusharshah21/output/snake.svg" alt="Snake animation" />
 
 ###
 
