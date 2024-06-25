@@ -39,7 +39,7 @@
   I'm an ambitious problem solver with a passion for web development and Data Structures and Algorithms (DSA). Currently seeking and maintaining a part-time position that offers professional challenges while utilizing my interpersonal skills, excellent time management, and problem-solving abilities.<br><br>
   - 🔭 I’m working as a tech lead at BGC community.<br>
   - 📚 I'm currently learning BE from Chandigarh University.<br>
-  - ⚡ In my free time, I enjoy coding, playing badminton, creating applications, reading, and most importantly contributing to open source.<br>
+  - ⚡ In my free time, I enjoy coding, playing badminton, creating applications, reading.<br>
   - 🌐 Check out my portfolio <a href="https://tushar-portfolio-lemon.vercel.app/">here</a>.<br>
   - 🤔 I’m looking for opportunities.<br>
   - 💬 Ask me about any frameworks or topics related to full stack development.<br>
