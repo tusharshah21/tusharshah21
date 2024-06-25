@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi there, I'm Tushar Kumar Shah! 👋</h1>
 
 ###
 
@@ -35,7 +35,6 @@
 <br clear="both">
 
 <p align="left">
-  ### Hi there, I'm Tushar Kumar Shah! 👋<br><br>
   I'm an ambitious problem solver with a passion for web development and Data Structures and Algorithms (DSA). Currently seeking and maintaining a part-time position that offers professional challenges while utilizing my interpersonal skills, excellent time management, and problem-solving abilities.<br><br>
   - 🔭 I’m working as a tech lead at BGC community.<br>
   - 📚 I'm currently learning BE from Chandigarh University.<br>
